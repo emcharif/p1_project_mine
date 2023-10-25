@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libgrid_generator.a CMakeFiles/grid_generator.dir/grid_generator.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libgrid_generator.a

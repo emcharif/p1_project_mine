@@ -1,0 +1,12 @@
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/CMakeFiles/test.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/src/CMakeFiles/grid_generator.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/src/CMakeFiles/main.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/src/CMakeFiles/test.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/test/CMakeFiles/test_calculator.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/test/CMakeFiles/test.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/Users/charif/CLionProjects/p1_project_mine/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
