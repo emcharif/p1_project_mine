@@ -1,7 +1,7 @@
 
-add_library(calculator calculator.c)
-target_link_libraries(calculator m)
-target_include_directories(calculator PUBLIC .)
+add_library(grid_generator grid_generator.c)
+target_link_libraries(grid_generator m)
+target_include_directories(grid_generator PUBLIC .)
 
-add_executable(project1 project1.c)
-target_link_libraries(project1 calculator)
+add_executable(main main.c)
+target_link_libraries(main grid_generator)
